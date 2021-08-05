@@ -2,7 +2,7 @@
 <!DOCTYPE.html>
 <html>
   <head>
-  <title>Animal quiz</title>
+  
   </head>
   <body style="background-color:blue;">
 <h1>Welcome to My Quiz<h1>
@@ -32,5 +32,4 @@
 
 
 <a href="file:///C:/Users/edena/OneDrive/Desktop/html/answers.html" target="_blank">click here to see the answers</a>
-
 </html>
