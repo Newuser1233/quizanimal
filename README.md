@@ -1,10 +1,10 @@
 # quizanimal
-<!DOCTYPE.html>
+
 <html>
   <head>
   
   </head>
-  <body style="background-color:blue;">
+  <body style="background-color:red;">
 <h1>Welcome to My Quiz<h1>
 <hr>
   <p><i>In this quiz i will see your knowledge on animals</i></p>
@@ -32,4 +32,4 @@
 
 
 <a href="https://newuser1233.github.io/answers/" target="_blank">click here to see the answers</a>
-</html>
+
