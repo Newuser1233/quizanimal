@@ -6,7 +6,7 @@
   </head>
   <body style="background-color:red;">
 <h1>Welcome to My Quiz<h1>
-<hr>
+
   <p><i>In this quiz i will see your knowledge on animals</i></p>
 <hr>
 <p>1.</p>
