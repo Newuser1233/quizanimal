@@ -2,7 +2,7 @@
 
 <html>
   <head>
-  
+  <title>Animal quiz</title>
   </head>
   <body style="background-color:red;">
 <h1>Welcome to My Quiz<h1>
@@ -32,5 +32,3 @@
 
 
 <a href="https://newuser1233.github.io/answers/" target="_blank">click here to see the answers</a>
-
-  
