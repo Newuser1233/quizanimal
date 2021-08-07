@@ -2,7 +2,6 @@
 
 <html>
   <head>
-  <title>Animal quiz</title>
   </head>
   <body style="background-color:red;">
 <h1>Welcome to My Quiz<h1>
