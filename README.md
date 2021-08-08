@@ -24,10 +24,7 @@
 <p>What animal is this?</p>
  <input type="text">
 <hr>
-
+<form action="https://newuser1233.github.io/answers/">
 <p> Thank you for doing the quiz!</p>
  <input type="submit">
 
-
-
-<a href="https://newuser1233.github.io/answers/" target="_blank">click here to see the answers</a>
